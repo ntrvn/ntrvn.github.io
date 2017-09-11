@@ -1,0 +1,22 @@
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    left: 50px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 0px;
+}
+
+#myBtn i {
+    font-size: 50px;
+}
+
+#myBtn:hover {
+    background-color: #555;
+}
